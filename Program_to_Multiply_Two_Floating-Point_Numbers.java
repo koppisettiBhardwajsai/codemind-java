@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Division
+public class MultiplyFloat
 {
     public static void main(String[] args)
     {
