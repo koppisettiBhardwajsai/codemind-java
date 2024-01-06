@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Adding
+public class AddingTwoFloat
 {
     public static void main(String[] args)
     {
